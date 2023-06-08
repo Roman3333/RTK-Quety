@@ -1,0 +1,16 @@
+.basketItem {
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &Count {
+    margin: 0 10px;
+  }
+
+  &Remove:hover {
+    color: aqua;
+    transition: all 0.3s;
+    cursor: pointer;
+  }
+}

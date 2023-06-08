@@ -1,0 +1,184 @@
+{
+  "Products": [
+    {
+      "type": "simple",
+      "id": 1,
+      "sku": "s1",
+      "title": "Product 1",
+      "regular_price": {
+        "currency": "USD",
+        "value": 27.12
+      },
+      "image": "/images/1.png",
+      "brand": "Brand 3"
+    },
+    {
+      "type": "simple",
+      "id": 2,
+      "sku": "s2",
+      "title": "Product 2",
+      "regular_price": {
+        "currency": "USD",
+        "value": 36.87
+      },
+      "image": "/images/2.png",
+      "brand": "Brand 4"
+    },
+    {
+      "type": "simple",
+      "id": 3,
+      "sku": "s3",
+      "title": "Product 3",
+      "regular_price": {
+        "currency": "USD",
+        "value": 28.91
+      },
+      "image": "/images/3.png",
+      "brand": "Brand 2"
+    },
+    {
+      "type": "simple",
+      "id": 4,
+      "sku": "s4",
+      "title": "Product 4",
+      "regular_price": {
+        "currency": "USD",
+        "value": 41.23
+      },
+      "image": "/images/4.png",
+      "brand": "Brand 1"
+    },
+    {
+      "type": "simple",
+      "id": 5,
+      "sku": "s5",
+      "title": "Product 5",
+      "regular_price": {
+        "currency": "USD",
+        "value": 88
+      },
+      "image": "/images/5.png",
+      "brand": "Brand 3"
+    },
+    {
+      "type": "simple",
+      "id": 6,
+      "sku": "s6",
+      "title": "Product 6",
+      "regular_price": {
+        "currency": "USD",
+        "value": 127.41
+      },
+      "image": "/images/6.png",
+      "brand": "Brand 3"
+    },
+    {
+      "type": "simple",
+      "id": 7,
+      "sku": "s7",
+      "title": "Product 7",
+      "regular_price": {
+        "currency": "USD",
+        "value": 123.4
+      },
+      "image": "/images/7.png",
+      "brand": "Brand 3"
+    },
+    {
+      "type": "simple",
+      "id": 8,
+      "sku": "s8",
+      "title": "Product 8",
+      "regular_price": {
+        "currency": "USD",
+        "value": 92.32
+      },
+      "image": "/images/8.png",
+      "brand": "Brand 1"
+    },
+    {
+      "type": "simple",
+      "id": 9,
+      "sku": "s9",
+      "title": "Product 9",
+      "regular_price": {
+        "currency": "USD",
+        "value": 53.4
+      },
+      "image": "/images/9.png",
+      "brand": "Brand 2"
+    },
+    {
+      "type": "simple",
+      "id": 10,
+      "sku": "s10",
+      "title": "Product 10",
+      "regular_price": {
+        "currency": "USD",
+        "value": 13.4
+      },
+      "image": "/images/7.png",
+      "brand": "Brand 4"
+    },
+    {
+      "type": "simple",
+      "id": 11,
+      "sku": "s11",
+      "title": "Product 11",
+      "regular_price": {
+        "currency": "USD",
+        "value": 922.32
+      },
+      "image": "/images/8.png",
+      "brand": "Brand 1"
+    },
+    {
+      "type": "simple",
+      "id": 12,
+      "sku": "s12",
+      "title": "Product 12",
+      "regular_price": {
+        "currency": "USD",
+        "value": 43.4
+      },
+      "image": "/images/9.png",
+      "brand": "Brand 2"
+    },
+    {
+      "type": "simple",
+      "id": 1680938546072,
+      "sku": "s1",
+      "title": "fafffas",
+      "regular_price": {
+        "currency": "USD",
+        "value": "100"
+      },
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=-1&s=1",
+      "brand": "Brand 2"
+    },
+    {
+      "type": "simple",
+      "id": 1680938909602,
+      "sku": "s1",
+      "title": "beauty",
+      "regular_price": {
+        "currency": "USD",
+        "value": "666"
+      },
+      "image": "https://comazo.ru/upload/iblock/02f/02f884f3dbb36a4536ff13398b164c0f.jpg",
+      "brand": "Brand 3"
+    },
+    {
+      "type": "simple",
+      "id": 1683986569373,
+      "sku": "s1",
+      "title": "Hello",
+      "regular_price": {
+        "currency": "USD",
+        "value": "777"
+      },
+      "image": "https://www.imgacademy.com/sites/default/files/styles/scale_1700w/public/2022-07/img-homepage-meta_0.jpg?itok=LMirU0Ik",
+      "brand": "Test"
+    }
+  ]
+}

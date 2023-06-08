@@ -1,0 +1,8 @@
+.basket {
+  padding-top: 30px;
+
+  &Items {
+    display: flex;
+    flex-direction: column;
+  }
+}

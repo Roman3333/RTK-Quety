@@ -1,0 +1,15 @@
+.filters {
+  width: 250px;
+  margin-right: 20px;
+  background-color: rgb(105, 102, 97);
+
+  &List {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+  }
+
+  &Label {
+    cursor: pointer;
+  }
+}

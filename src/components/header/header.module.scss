@@ -1,0 +1,33 @@
+.header {
+  height: 50px;
+  padding: 10px 0;
+  background-color: #8d1773;
+
+  &Inner {
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &Count {
+    margin: 0 7px;
+    position: relative;
+    &::after {
+      position: absolute;
+      content: '';
+      top: 0;
+      right: -4px;
+      width: 1px;
+      height: 100%;
+      background-color: #fff;
+    }
+  }
+
+  &Link {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    transition: all 0.3s;
+  }
+}
